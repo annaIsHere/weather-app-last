@@ -41,6 +41,8 @@ li {
 
   height: 64px;
   width: 64px;
+  position: relative;
+  top: -20px;
 }
 .weather-temperature strong {
   color: rgb(33 33 33);
