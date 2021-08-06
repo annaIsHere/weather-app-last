@@ -37,7 +37,9 @@ li::first-letter {
   margin: 30px auto;
   padding: 20px;
   border: 1px solid #dadde1;
-  border-radius: 5px;
+  border-radius: 10px;
+  background: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+  box-shadow: -2px 2px 20px #132743;
 }
 .overview {
   margin-bottom: 20px;
